@@ -13,7 +13,7 @@ streamlit run kategori_produk.py
 ```
 
 ## Deployment link
-!(streamlit)[https://belajar-ds.streamlit.app/]
+[streamlit](https://belajar-ds.streamlit.app/)
 
 ## Kaggle
-!(kaggle)[https://www.kaggle.com/hithere7/dicoding-proyek-analisis-data]
+[kaggle](https://www.kaggle.com/hithere7/dicoding-proyek-analisis-data)
