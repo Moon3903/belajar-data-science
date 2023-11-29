@@ -12,8 +12,11 @@ pip install -r requirements.txt
 streamlit run kategori_produk.py
 ```
 
-## Deployment link
-[streamlit](https://belajar-ds.streamlit.app/)
-
 ## Kaggle
 [kaggle](https://www.kaggle.com/hithere7/dicoding-proyek-analisis-data)
+
+## Deployment link
+[streamlit](https://belajar-data-science.streamlit.app/)
+
+![ss1](Screenshot1.png)
+![ss2](Screenshot2.png)
